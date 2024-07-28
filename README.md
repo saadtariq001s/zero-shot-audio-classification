@@ -1,6 +1,6 @@
-# Audio Classification with Deep Learning
+# Zero-Shot Audio Classification using Laion
 
-This repository contains a Jupyter Notebook for performing audio classification using deep learning techniques. The notebook demonstrates the process of loading, preprocessing, and training a neural network model to classify audio samples into various categories.
+This repository contains a Jupyter Notebook for performing audio classification using a zero-shot audio classification model 'laion' from huggingface. The notebook demonstrates the process of loading, preprocessing, and inferencing of the neural network model to classify audio samples into various categories.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -17,7 +17,7 @@ Audio classification is a crucial task in the field of machine learning, where t
 ## Features
 - Data loading and preprocessing
 - Feature extraction from audio signals
-- Building and training a neural network for classification
+- Inferencing a neural network for classification
 - Evaluation and visualization of model performance
 
 ## Installation
