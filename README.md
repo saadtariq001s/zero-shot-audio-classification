@@ -39,7 +39,7 @@ pip install numpy pandas librosa tensorflow matplotlib
 ## Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/audio_classification.git
+git clone https://github.com/saadtariq001s/audio_classification.git
 cd audio_classification
 ```
 
